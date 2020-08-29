@@ -1,23 +1,23 @@
 
+Course Setup
+Jupiter Notebook: https://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/tutorial_jupyter_notebooks.ipynb
+
+Numpy: https://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/tutorial_numpy.ipynb
+
+Pytorch: https://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/tutorial_pytorch.ipynb
+
 Assignment 1: 
-Word2Vec Tutorial - The Skip-Gram Model: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
 
 Assignment 2: 
-CS231n Notes on Backpropagation: https://cs231n.github.io/optimization-2/
 
 
 Assignment 3: 
-Universal Dependencies Website: https://universaldependencies.org/
+
 
 Assignment 4: 
-Understanding LSTM Networks: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-Attention and Augmented Recurrent Neural Networks: https://distill.pub/2016/augmented-rnns/
+
+
 
 Assignment 5: 
 
-
-
-BERT: 
-The Illustrated Transformer: http://jalammar.github.io/illustrated-transformer/
-The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning): http://jalammar.github.io/illustrated-bert/
